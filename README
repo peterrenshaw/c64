@@ -19,7 +19,13 @@ objective: program basic routines in c64 machine code and call from basic
 
 
 2019NOV25
-Step one install emulator and find technical references.
+Step one install emulator, assembler and find technical references.
+
+Assembler
+ 
+  <https://en.wikipedia.org/wiki/Merlin_(assembler)>
+  <http://commodore.software/downloads/download/50-assemblers/906-merlin-64>
+
 
 Books
 
