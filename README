@@ -14,26 +14,30 @@
 
 
 
-objective: to program basic routines in c64 machine code and call 
-           from basic
+objective: program basic routines in c64 machine code and call from basic
 
 
 
 2019NOV25
+Step one install emulator and find technical references.
 
 BOOKS
 - http://www.1000bit.it/support/manuali/commodore/c64/Machine_Code_Games_Routines_for_the_Commodore_64.pdf
+
 - https://ia801708.us.archive.org/11/items/Assembly_Language_for_Kids_1985_Microcomscribe/Assembly_Language_for_Kids_1985_Microcomscribe.pdf
 
 Hardware emulator
+
 * setup roms for mac
 - listed at dirkwhoffmann
 
 
 * Roms 
+
   <http://www.dirkwhoffmann.de/virtualc64/ROMs.html>
   <http://www.zimmers.net/cbmpics/c64s.html>
   <http://www.zimmers.net/anonftp/pub/cbm/firmware/drives/new/1541/index.html>
 
 * Emulator
+
   <http://www.dirkwhoffmann.de/virtualc64/ROMs.html>
