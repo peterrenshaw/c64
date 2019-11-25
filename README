@@ -21,10 +21,11 @@ objective: program basic routines in c64 machine code and call from basic
 2019NOV25
 Step one install emulator and find technical references.
 
-BOOKS
-- http://www.1000bit.it/support/manuali/commodore/c64/Machine_Code_Games_Routines_for_the_Commodore_64.pdf
+Books
 
-- https://ia801708.us.archive.org/11/items/Assembly_Language_for_Kids_1985_Microcomscribe/Assembly_Language_for_Kids_1985_Microcomscribe.pdf
+ <http://www.1000bit.it/support/manuali/commodore/c64/Machine_Code_Games_Routines_for_the_Commodore_64.pdf>
+
+ <https://ia801708.us.archive.org/11/items/Assembly_Language_for_Kids_1985_Microcomscribe/Assembly_Language_for_Kids_1985_Microcomscribe.pdf>
 
 Hardware emulator
 
@@ -32,7 +33,7 @@ Hardware emulator
 - listed at dirkwhoffmann
 
 
-* Roms 
+Roms 
 
   <http://www.dirkwhoffmann.de/virtualc64/ROMs.html>
   <http://www.zimmers.net/cbmpics/c64s.html>
